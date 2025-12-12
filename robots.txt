@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trending-topics-right-now-2025.vercel.app/sitemap.xml
